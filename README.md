@@ -1,5 +1,4 @@
-![WAIL-icon](https://github.com/kagantemizkan/wail/assets/46727689/d6ff2f9e-5589-42ec-bd95-51d51e5a8fa9 | width=100)
-
+<img src="https://github.com/kagantemizkan/wail/assets/46727689/d6ff2f9e-5589-42ec-bd95-51d51e5a8fa9" width="100" height="100">
 
 ## Ekran Görüntüleri
 
