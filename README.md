@@ -1,4 +1,4 @@
-<img src="https://github.com/kagantemizkan/wail/assets/46727689/d6ff2f9e-5589-42ec-bd95-51d51e5a8fa9" width="275">
+<img src="https://github.com/kagantemizkan/wail/assets/46727689/ff20ce64-a9e1-4d10-8c90-108cb036fff9" width="275">
 
 WAIL uygulaması spotify ile giriş yaptıktan sonra sizin anlık olarak spotifyda ne dinlediğinizi gösterir. İleriki sürümlerde arkadaş ekleme, mesajlaşma ve arkadaş aktivitelerini görüntüleme eklenilmesi düşünülmektedir.
 
